@@ -31,3 +31,4 @@ int main(void)
 	free(new->str);
 	free(new);
 	return (0);
+}
